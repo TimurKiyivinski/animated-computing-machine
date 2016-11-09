@@ -1,0 +1,25 @@
+{
+  "name": "animated-computing-machine",
+  "version": "1.0.0",
+  "description": "Swinburne Sarawak Hackers example Node.JS application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TimurKiyivinski/animated-computing-machine.git"
+  },
+  "author": "Timur Kiyivinski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TimurKiyivinski/animated-computing-machine/issues"
+  },
+  "homepage": "https://github.com/TimurKiyivinski/animated-computing-machine#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mongoose": "^4.6.6"
+  }
+}
